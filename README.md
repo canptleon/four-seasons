@@ -67,16 +67,16 @@ export default App;
 Each season is displayed with a unique animation. Below are the examples:
 
 ### Winter (Background is not included)
-![Winter](src/photos/winter.gif)
+![Winter Season](https://github.com/canptleon/four-seasons/raw/main/src/photos/winter.gif)
 
 ### Summer (Background included)
-![Summer](src/photos/summer.gif)
+![Summer Season](https://github.com/canptleon/four-seasons/blob/main/src/photos/summer.gif)
 
 ### Autumn (Background is not included)
-![Autumn](src/photos/autumn.gif)
+![Autumn Season](https://github.com/canptleon/four-seasons/blob/main/src/photos/autumn.gif)
 
 ### Spring (Background is not included)
-![Spring](src/photos/spring.gif)
+![Spring Season](https://github.com/canptleon/four-seasons/blob/main/src/photos/spring.gif)
 
 ## Importing Styles
 You will need to import the provided CSS file for the animations to work. Add the following line to your main CSS or inside your main 
